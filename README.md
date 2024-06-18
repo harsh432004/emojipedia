@@ -1,4 +1,4 @@
-EmojiPedia - best encyclopedia for emojis 😍
+**EmojiPedia** - *best encyclopedia for emojis* 😍
 ## Table of Contents
 
 - [Installation](#installation)
@@ -47,7 +47,7 @@ License
 This project is licensed under the MIT License. 
 
 ## Contact
- Name: Harsh
+ Name: Harsh Vaidya
 Email: harsh432004@gmail.com
-GitHub: harsh432004
-linkedin:harshvaidya04
+GitHub:[ harsh432004](https://github.com/harsh432004)
+linkedin:[harshvaidya04](https://www.linkedin.com/in/harshvaidya04/)
